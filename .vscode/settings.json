@@ -1,0 +1,6 @@
+{
+    "r.lsp.promptToInstall": false,
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "main"
+    ]
+}
